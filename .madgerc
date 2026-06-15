@@ -1,0 +1,6 @@
+{
+  "fileExtensions": ["js"],
+  "webpackConfig": "./webpack.madge.config.cjs",
+  "includeNpm": false,
+  "warning": true
+}

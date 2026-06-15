@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+}
+pre {
+  color:white;
+  padding: 0px;
+  margin: 0px;
+}
+
+.red {
+  color: red;
+}
+
+.burlywood {
+  color: burlywood;
+}
+
+.grey {
+  color: grey;
+}
+
+.beige {
+  color: beige;
+}
+
+.green {
+  color: green;
+}
+
+.gold {
+  color: gold;
+}
+
+.flex {
+  display: flex;
+}
+
+.text-shadow {
+  text-shadow: 2px 2px 0px rgb(80, 80, 80);
+}
+
+#control-buttons {
+  position: fixed;
+  top: 600px;
+  left: 660px;
+}
